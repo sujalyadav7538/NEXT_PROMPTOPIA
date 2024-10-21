@@ -5,6 +5,10 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+.env
+.dockerignore
+.Dockerfile
+.compose.yaml
 
 # testing
 /coverage
