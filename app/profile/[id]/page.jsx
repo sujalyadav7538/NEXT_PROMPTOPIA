@@ -6,7 +6,7 @@ import { useSearchParams } from "next/navigation";
 
 import Profile from "@/components/Profile";
 
-const UserProfile = ({params,query}) => {
+const UserProfile = ({params}) => {
 
   const [usersPosts, setUsersPosts] = useState([]);
   const SearchParams=useSearchParams();
