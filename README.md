@@ -25,4 +25,4 @@ Promptopia is a **full-stack web application** where users can share their innov
 ![My Profile](https://raw.githubusercontent.com/sujalyadav7538/NEXT_PROMPTOPIA/main/public/glimpse/Screenshot%20(33).png)
 
 ### 3. **Update Post**
-![Update Post](https://raw.githubusercontent.com/sujalyadav7538/NEXT_PROMPTOPIA/main/public/glimpse/Screenshot%20(33).png)
+![Update Post](https://raw.githubusercontent.com/sujalyadav7538/NEXT_PROMPTOPIA/main/public/glimpse/Screenshot%20(34).png)
